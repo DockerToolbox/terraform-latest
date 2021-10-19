@@ -39,8 +39,8 @@ We use our [tfenv](https://github.com/DockerToolbox/tfenv) containers as the bas
 
 ## Supported Operating Systems
 
-| Operating System             | Docker Hub Repo                                                                                         | Docker Hub Tags             |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------- |
+| Operating System             | Docker Hub Repo                                                                                                       | Docker Hub Tags             |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | Alpine Linux 3.11            | [wolfsoftwareltd/terraform-latest-alpine](https://hub.docker.com/r/wolfsoftwareltd/terraform-latest-alpine)           | 3.11                        |
 | Alpine Linux 3.12            | [wolfsoftwareltd/terraform-latest-alpine](https://hub.docker.com/r/wolfsoftwareltd/terraform-latest-alpine)           | 3.12                        |
 | Alpine Linux 3.13            | [wolfsoftwareltd/terraform-latest-alpine](https://hub.docker.com/r/wolfsoftwareltd/terraform-latest-alpine)           | 3.13                        |

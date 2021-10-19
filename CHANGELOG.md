@@ -9,6 +9,8 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - update [`[head]`](https://github.com/DockerToolbox/terraform-latest/commit/)
 
+- update [`[5432690]`](https://github.com/DockerToolbox/terraform-latest/commit/54326906a83461855b9c669a5618a6264d6cb925)
+
 - Updates [`[3854829]`](https://github.com/DockerToolbox/terraform-latest/commit/38548291f0eae2577bef4dfe7604da7f0046c11a)
 
 - update [`[6afa2b8]`](https://github.com/DockerToolbox/terraform-latest/commit/6afa2b8ead32f643b1bf22e31f6cae8e74cf2222)
