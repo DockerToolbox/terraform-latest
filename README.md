@@ -33,7 +33,7 @@
 
 ## Overview
 
-This is a selection of Docker containers preinstalled with the `latest` version of [Terraform](https://www.terraform.io/).
+This is a selection of Docker containers preinstalled with the `latest stable` version of [Terraform](https://www.terraform.io/).
 
 We use our [tfenv](https://github.com/DockerToolbox/tfenv) containers as the base to keep the install simple and consistent.
 
